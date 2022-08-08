@@ -1,5 +1,7 @@
 # Read Me Generator
 
+![demo](Develop/assets/demo.gif)
+
 ## Description
 This project was about creating a read me file generate that would operate using command line application. This was important to do as it was our first time using node and understnainf how it works.
 
